@@ -1,2 +1,2 @@
 new_branch_name = dev
-new_branch_name_2
+new_branch_name_2 = dev-2
